@@ -1,0 +1,1 @@
+$expandlist[5]=1/120*$aaac[1]^5 + 1/6*$aaac[1]^3*$aaac[2] + 1/2*$aaac[1]*$aaac[2]^2 + 1/2*$aaac[1]^2*$aaac[3] + $aaac[2]*$aaac[3] + $aaac[1]*$aaac[4] + $aaac[5]
